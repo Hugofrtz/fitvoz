@@ -104,3 +104,17 @@ Foto genérica de academia: Unsplash (identificador do arquivo CDN: `photo-15344
 4. Compartilhe o repositório com os integrantes do grupo em **Settings → Collaborators**.
 
 **Importante:** GitHub armazena o código e o histórico do projeto; ele não executa PHP nem hospeda MySQL. Para deixar o site acessível pela internet, vocês ainda precisam de uma hospedagem que aceite PHP e MySQL/MariaDB e configurar nela as credenciais próprias do servidor. Não publique senhas, dados pessoais reais ou avaliações de usuários.
+
+
+## Minha contribuição no projeto
+
+Projeto desenvolvido em colaboração com outros integrantes
+durante a graduação em Análise e Desenvolvimento de Sistemas.
+
+Participei ativamente do desenvolvimento do FitVoz,
+contribuindo com a implementação de funcionalidades,
+construção de partes do sistema e colaboração técnica
+durante o desenvolvimento.
+
+O repositório foi publicado por um dos integrantes
+do grupo, conforme orientação do professor.

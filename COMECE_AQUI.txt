@@ -1,0 +1,22 @@
+FITVOZ - SITE DE FEEDBACK DE ACADEMIAS
+
+1. Extraia a pasta fitvoz para C:\xampp\htdocs\fitvoz
+2. No painel do XAMPP, inicie Apache e MySQL.
+3. Acesse http://localhost/phpmyadmin
+4. Clique em Importar e selecione o arquivo banco.sql desta pasta.
+5. Abra http://localhost/fitvoz/
+6. Clique em Entrar / Criar conta e cadastre uma conta de teste.
+7. Avalie as unidades. O ranking surgirá com as avaliações.
+
+Não abra index.html com duplo clique: use o endereço localhost acima.
+
+Se seu banco tem senha ou outra porta, altere config.php.
+Os dados padrão são: host 127.0.0.1, porta 3306, banco fitvoz,
+usuário root e senha vazia.
+
+As academias e os profissionais são exemplos fictícios.
+O ranking começa sem notas e usa as avaliações gravadas no banco.
+
+README.md: detalhes técnicos, instalação, solução de problemas
+           e roteiro para a apresentação da faculdade.
+TESTES.md: testes realizados e limites da verificação.
